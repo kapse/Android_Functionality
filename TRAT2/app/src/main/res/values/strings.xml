@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TRAT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_student_page_one">StudentPageOneActivity</string>
+    <string name="title_activity_admin_page_one">AdminPageOneActivity</string>
+    <string name="title_activity_student_signup_page">StudentSignupPageActivity</string>
+    <string name="title_activity_admin_signup_page">AdminSignupPageActivity</string>
+    <string name="title_activity_student_welcome_page">StudentWelcomePageActivity</string>
+    <string name="title_activity_admin_welcome_page">AdminWelcomePageActivity</string>
+    <string name="title_activity_start_test">StartTestActivity</string>
+</resources>

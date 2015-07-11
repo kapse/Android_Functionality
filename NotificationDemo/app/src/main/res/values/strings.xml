@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_notification_receiver">NotificationReceiverActivity</string>
+</resources>

@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/question1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="30dp"
+        android:text="Que 1 "
+        android:textSize="@dimen/abc_action_button_min_width_overflow_material"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/oneA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="oneA"
+        android:text="A"/>
+
+    <Button
+        android:id="@+id/oneB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="oneB"
+        android:text="B"/>
+    <Button
+        android:id="@+id/oneC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="oneC"
+        android:text="C"/>
+    <Button
+        android:id="@+id/oneD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="oneD"
+        android:text="D"/>
+    <Button
+        android:id="@+id/oneE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="oneE"
+        android:text="E"/>
+
+    <TextView
+        android:id="@+id/question2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="30dp"
+        android:text="Que 2 "
+        android:textSize="@dimen/abc_action_button_min_width_overflow_material"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/twoA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="twoA"
+        android:text="A"/>
+
+    <Button
+        android:id="@+id/twoB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="twoB"
+        android:text="B"/>
+    <Button
+        android:id="@+id/twoC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="twoC"
+        android:text="C"/>
+    <Button
+        android:id="@+id/twoD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="twoD"
+        android:text="D"/>
+    <Button
+        android:id="@+id/twoE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="twoE"
+        android:text="E"/>
+
+
+
+
+</LinearLayout>
